@@ -1,6 +1,6 @@
 # Tripleten web_project_homeland
 
-A página web mostra as cidades natais de alguns funcionários da TripleTen e é o quinto projeto do programa de desenvolvimento web da TripleTen.
+A página web mostra as cidades natais de alguns funcionários da TripleTen e é o sexto projeto do programa de desenvolvimento web da TripleTen.
 
 ## Recursos do projeto
 
