@@ -9,7 +9,6 @@
     ". texts";
   grid-column-gap: 40px;
   grid-row-gap: 48px;
-  font-family: Inter;
   color: #fff;
 }
 
@@ -57,10 +56,11 @@
   height: 460px;
   box-shadow: 10px 10px 25px 0px #00000080;
   grid-area: image;
+  cursor: pointer;
 }
 
 .place__image:hover {
-  background-color: #00000080;
+  opacity: 0.5;
 }
 
 .place__paragraphs {
@@ -73,7 +73,6 @@
 
 .place__paragraph {
   margin: 0;
-  font-family: Inter;
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
@@ -82,7 +81,6 @@
 }
 
 .place__button {
-  font-family: Inter;
   font-weight: 600;
   font-size: 18px;
   line-height: 100%;
@@ -97,6 +95,8 @@
   max-width: 356.08px;
   height: 48px;
   color: #fff;
+  cursor: pointer;
+  border: none;
 }
 
 .place__button:hover {
