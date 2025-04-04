@@ -9,4 +9,4 @@ A página web mostra as cidades natais de alguns funcionários da TripleTen e é
 
 ## Link
 
-[Link Text](https://github.com/Aline-Fer/web_project_homeland.git).
+[Link to site](https://aline-fer.github.io/web_project_homeland/).
